@@ -1,6 +1,6 @@
 # 在Win11上给Android刷机的简单过程
 ## 配置Android开发者选项
-[官方文档参考](source.android.com/source/running?hl=zh-cn#flash-unlock)
+[官方文档参考](https://source.android.com/source/running?hl=zh-cn#flash-unlock)
 如果您无法启用 OEM 解锁功能，请确保：
 您的设备已连接到互联网。
 您的设备已签入 Google（如果您的设备刚刚才连接到互联网，就可能还没有签入 Google）。如需强制签入，请在拨号器中输入 *#*#CHECKIN#*#* (*#*#2432546#*#*)（不需要插入 SIM 卡）。输入此号码（不需要按“通话”）后，相应文字即会消失，并且系统会显示成功通知。
