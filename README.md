@@ -1,4 +1,6 @@
 # 在Win11上给Android刷机的简单过程
+## Pixel官方刷机工具
+https://flash.android.com/welcome (谷歌的所有Android系统）
 ## 配置Android开发者选项
 [官方文档参考](https://source.android.com/source/running?hl=zh-cn#flash-unlock)
 如果您无法启用 OEM 解锁功能，请确保：
@@ -22,7 +24,3 @@
 ## 刷机
 1. 下载系统镜像并解压，将"platform-tool"文件夹中的文件复制入系统镜像文件夹中
 2. 双击运行"flash-all.bat"，等待即可
-## Pixel官方恢复工具
-https://flash.android.com/welcome
-
-
