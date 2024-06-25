@@ -20,7 +20,7 @@ https://flash.android.com/welcome (谷歌的所有Android系统）
 2. 启动CMD/Powershell，输入 Bootloader 解锁指令，并按下回车执行:`fastboot oem unlock`(Android 5.0 及以下)；`fastboot flashing unlock`(Android 6.0 及以上)
 4. 在设备端此时会弹出 Bootloader 解锁的确认界面，使用音量键移动关标选择确认，按下电源键开始解锁
 5. 解锁后设备会被清除数据并重新启动，待设备开机后检查「USB 调试」选项；重新进入 Bootloader 界面等候
-若此时卡在启动界面，可强制关机并冷启动进入fastboot模式（反正要刷机的嘛）
+6. 若此时卡在启动界面，可强制关机并冷启动进入fastboot模式（反正要刷机的嘛）
 ## 刷机
 1. 下载系统镜像并解压，将"platform-tool"文件夹中的文件复制入系统镜像文件夹中
 2. 双击运行"flash-all.bat"，等待即可
