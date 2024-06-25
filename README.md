@@ -22,7 +22,7 @@
 ## 刷机
 1. 下载系统镜像并解压，将"platform-tool"文件夹中的文件复制入系统镜像文件夹中
 2. 双击运行"flash-all.bat"，等待即可
-## 恢复
-谷歌提供的回复方式https://flash.android.com/welcome
+## Pixel官方恢复工具
+https://flash.android.com/welcome
 
 
