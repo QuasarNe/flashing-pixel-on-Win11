@@ -12,7 +12,7 @@ https://flash.android.com/welcome (谷歌的所有Android系统）
   在文件夹中找到"android_winusb.inf"并右键安装
   ### 部署软件开发工具包平台工具
   1. [下载SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools)
-  2. 设置>系统>系统信息>**高级系统设置**>环境变量>系统变量>Path，添加platform tools文件路径
+  2. 设置>系统>系统信息>**高级系统设置**>环境变量>系统变量>Path，添加platform tools文件夹路径
   3. 启动cmd/Powershell，输入`adb version`,若出现版本信息则成功
 ## 解锁bootloader
 解锁之后，系统会清空设备上的所有数据。若手机中有重要数据，请提前备份手机！
