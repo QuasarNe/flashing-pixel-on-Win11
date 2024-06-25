@@ -17,7 +17,7 @@ https://flash.android.com/welcome (谷歌的所有Android系统）
 ## 解锁bootloader
 解锁之后，系统会清空设备上的所有数据。若手机中有重要数据，请提前备份手机！
 1. [手机冷启动进入fastboot模式（Pixel:关机状态下长按电源键和音量下键），连接电脑，在cmd/Powershell中输入`fastboot devices`，若出现设备信息则连接成功]
-2. 或者手机连接电脑后，启动cmd/Powershell,输入`adb reboot bootloader`进如flashboot模式
+2. 或者手机连接电脑后，启动cmd/Powershell,输入`adb reboot bootloader`进如fastboot模式
 3. 启动CMD/Powershell，输入 Bootloader 解锁指令，并按下回车执行:`fastboot oem unlock`(Android 5.0 及以下)；`fastboot flashing unlock`(Android 6.0 及以上)
 4. 在设备端此时会弹出 Bootloader 解锁的确认界面，使用音量键移动关标选择确认，按下电源键开始解锁
 5. 解锁后设备会被清除数据并重新启动，待设备开机后检查「USB 调试」选项；重新进入 Bootloader 界面等候
