@@ -1,4 +1,4 @@
-# 在Win11上给Android刷机的简单过程
+# 在Win11上给Pixel刷机的简单过程
 ## Pixel官方刷机工具
 https://flash.android.com/welcome (谷歌的所有Android系统）
 ## 配置Android开发者选项
