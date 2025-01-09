@@ -3,6 +3,9 @@
 https://flash.android.com/welcome (谷歌的所有Android系统）
 ## 配置Android开发者选项
 [官方文档参考](https://source.android.com/source/running?hl=zh-cn#flash-unlock)
+在“设置”中，点按关于手机，然后点按版本号七 (7) 次。
+当看到“您已处于开发者模式”这条消息后，点按返回按钮。
+点按开发者选项，然后启用 OEM 解锁和 USB 调试。
 如果您无法启用 OEM 解锁功能，请确保：
 1. 您的设备是无锁机。
 2. 您的设备已连接到互联网。
