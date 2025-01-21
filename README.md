@@ -13,7 +13,7 @@ https://flash.android.com/welcome (谷歌的所有Android系统）
 3. 您的设备已签入 Google（如果您的设备刚刚才连接到互联网，就可能还没有签入 Google）。如需强制签入，请在拨号器中输入 *#*#CHECKIN#*#* (*#*#2432546#*#*)（不需要插入 SIM 卡）。输入此号码（不需要按“通话”）后，相应文字即会消失，并且系统会显示成功通知。
 ## 配置电脑环境
   ### 安装[Google USB Driver](https://developer.android.com/studio/run/win-usb)
-  在文件夹中找到"android_winusb.inf"并右键安装
+  在文件夹中找到"android_winusb.inf"，安装
   ### 部署软件开发工具包平台工具
   1. [下载SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools)
   2. 设置>系统>系统信息>**高级系统设置**>环境变量>系统变量>Path，添加platform tools文件夹路径
